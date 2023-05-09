@@ -25,6 +25,7 @@ Its is a process
 
 * Typeracer in rust
 * Pomodoro in {Rust|Java}
+* Webscraper in {Rust + {Java | Python\}}
 
 #### Superlative
 
