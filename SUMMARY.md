@@ -4,7 +4,7 @@
 
 ## Cyberkaj
 
-* [WEB](cyberkaj/web/README.md)
+* [WEB](cyberkaj/web.md)
   * [General knowledge](cyberkaj/web/general-knowledge.md)
   * [Tools](cyberkaj/web/tools.md)
   * [Cheat sheet](cyberkaj/web/cheat-sheet.md)
@@ -16,6 +16,11 @@
 ## Writeups
 
 * [Page 1](writeups/page-1.md)
+
+## Projects
+
+* [Project overview](projects/project-overview.md)
+* [Methodology](projects/methodology.md)
 
 ## Resources
 
