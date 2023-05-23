@@ -10,12 +10,12 @@ Its is a process
 
 
 
-## Projects:
+## Projects ideas:
 
 #### Positive
 
 * Bash scripts for basic utilities
-  * Proper code n functions. Intuitive functionality
+  * Proper code 'n functions. Intuitive functionality
 * Rofi-scripts
   *
 * Dotfile-installer +(Organize them)
@@ -31,4 +31,8 @@ Its is a process
 
 * VM in rust
 * Paint in {Rust|Java|Python}
+* encryption/crypto lib
+* File analyzer
+* Image viewer
+* Messaging App
 
