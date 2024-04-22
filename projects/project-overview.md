@@ -35,4 +35,5 @@ Its is a process
 * File analyzer
 * Image viewer
 * Messaging App
+* ML: panopto subtitles rater and generator (funny)
 
