@@ -17,9 +17,11 @@ Its is a process
 * Bash scripts for basic utilities
   * Proper code 'n functions. Intuitive functionality
 * Rofi-scripts
-  *
+  * firefox luncher (frequently use sites)
 * Dotfile-installer +(Organize them)
-* Filesyn
+* Filesync
+* HUGO write-up site
+* keylogger
 
 #### Comparative
 
@@ -37,3 +39,8 @@ Its is a process
 * Messaging App
 * ML: panopto subtitles rater and generator (funny)
 
+
+
+### Resources / inspiration
+
+[https://www.youtube.com/@TsodingDaily/videos](https://www.youtube.com/@TsodingDaily/videos)
