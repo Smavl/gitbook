@@ -20,7 +20,7 @@ Its is a process
   * firefox luncher (frequently use sites)
 * Dotfile-installer +(Organize them)
 * Filesync
-* HUGO write-up site
+* {HUGO, zola} write-up site
 * keylogger
 
 #### Comparative
@@ -28,6 +28,11 @@ Its is a process
 * Typeracer in rust
 * Pomodoro in {Rust|Java}
 * Webscraper in {Rust + {Java | Python\}}
+* Raycasting {Rust, ts}
+* Game of life{Rust,ts}
+* Maze solver; Dijkstra, BFS, A\*; {Rust}
+* webscraper, medium article to .md
+* Oscint person gallery&#x20;
 
 #### Superlative
 
